@@ -1,0 +1,74 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+157.254.53.50,80,80,false,HKG,Asia Pacific,Hong Kong,31,16.02
+13.56.251.164,80,443,true,SJC,North America,San Jose,171,11.25
+51.141.162.228,80,80,false,SEA,North America,Seattle,204,10.76
+204.110.220.79,80,443,true,SEA,North America,Seattle,194,9.38
+204.110.221.115,80,443,true,SEA,North America,Seattle,197,9.37
+204.110.220.186,80,443,true,SEA,North America,Seattle,182,9.31
+204.110.220.11,80,443,true,SEA,North America,Seattle,190,9.23
+204.110.221.23,80,443,true,SEA,North America,Seattle,190,9.20
+204.110.221.216,80,443,true,SEA,North America,Seattle,197,8.98
+18.236.13.188,80,443,true,SEA,North America,Seattle,188,8.70
+204.110.220.142,80,443,true,SEA,North America,Seattle,193,8.39
+204.110.223.160,80,443,true,CMH,North America,Columbus,214,7.85
+67.226.222.6,80,443,true,CMH,North America,Columbus,212,7.62
+204.110.223.117,80,443,true,CMH,North America,Columbus,217,7.62
+204.110.223.225,80,443,true,CMH,North America,Columbus,214,7.36
+204.110.223.220,80,443,true,CMH,North America,Columbus,222,7.26
+204.110.223.107,80,443,true,CMH,North America,Columbus,227,7.21
+204.110.223.176,80,443,true,CMH,North America,Columbus,211,6.79
+60.205.0.210,80,80,false,NRT,Asia Pacific,Tokyo,51,6.79
+204.110.223.254,80,443,true,CMH,North America,Columbus,210,6.57
+67.226.223.121,80,443,true,CMH,North America,Columbus,219,6.40
+35.177.194.94,80,443,true,LHR,Europe,London,227,6.06
+3.97.173.206,80,443,true,YUL,North America,Montréal,248,5.59
+54.170.117.187,80,443,true,DUB,Europe,Dublin,240,5.43
+3.9.118.241,80,443,true,LHR,Europe,London,240,4.02
+170.106.84.6,80,80,false,SJC,North America,San Jose,177,3.61
+204.110.220.39,80,443,true,SEA,North America,Seattle,187,2.45
+204.110.223.96,80,443,true,CMH,North America,Columbus,219,1.78
+204.110.220.148,80,443,true,SEA,North America,Seattle,185,1.59
+204.110.220.174,80,443,true,SEA,North America,Seattle,182,1.05
+34.117.254.68,80,80,false,LAX,North America,Los Angeles,162,0.93
+18.144.63.244,80,443,true,SJC,North America,San Jose,176,0.81
+54.176.142.183,80,443,true,SJC,North America,San Jose,171,0.68
+20.119.73.200,80,80,false,IAD,North America,Ashburn,251,0.65
+204.110.221.196,80,443,true,SEA,North America,Seattle,181,0.45
+35.247.124.181,80,80,false,SEA,North America,Seattle,174,0.43
+204.110.220.231,80,443,true,SEA,North America,Seattle,197,0.37
+54.153.85.10,80,443,true,SJC,North America,San Jose,168,0.33
+54.241.64.136,80,443,true,SJC,North America,San Jose,179,0.33
+54.153.96.188,80,443,true,SJC,North America,San Jose,179,0.31
+204.110.223.73,80,443,true,CMH,North America,Columbus,227,0.27
+204.110.220.76,80,443,true,SEA,North America,Seattle,184,0.25
+204.110.220.200,80,443,true,SEA,North America,Seattle,186,0.24
+20.81.104.97,80,443,false,IAD,North America,Ashburn,254,0.21
+3.9.223.59,80,443,true,LHR,Europe,London,235,0.21
+204.110.220.37,80,443,true,SEA,North America,Seattle,180,0.20
+204.110.223.132,80,443,true,CMH,North America,Columbus,219,0.19
+18.171.206.105,80,443,true,LHR,Europe,London,222,0.18
+204.110.223.77,80,443,true,CMH,North America,Columbus,210,0.18
+52.53.250.40,80,443,true,SJC,North America,San Jose,176,0.18
+3.101.73.167,80,443,true,SJC,North America,San Jose,167,0.17
+52.209.63.185,80,443,true,DUB,Europe,Dublin,249,0.15
+204.110.221.211,80,443,true,SEA,North America,Seattle,194,0.15
+67.226.222.74,80,443,true,CMH,North America,Columbus,209,0.15
+67.226.222.40,80,443,true,CMH,North America,Columbus,217,0.14
+204.110.221.110,80,443,true,SEA,North America,Seattle,194,0.14
+204.110.223.135,80,443,true,CMH,North America,Columbus,232,0.12
+204.110.221.204,80,443,true,SEA,North America,Seattle,184,0.12
+204.110.220.168,80,443,true,SEA,North America,Seattle,190,0.11
+204.110.223.51,80,443,true,CMH,North America,Columbus,214,0.07
+52.209.63.176,80,443,true,DUB,Europe,Dublin,227,0.07
+35.176.229.223,80,443,true,LHR,Europe,London,224,0.07
+204.110.220.181,80,443,true,SEA,North America,Seattle,193,0.07
+67.226.222.187,80,443,true,CMH,North America,Columbus,209,0.06
+204.110.223.174,80,443,true,CMH,North America,Columbus,225,0.06
+67.226.222.53,80,443,true,CMH,North America,Columbus,208,0.06
+67.226.222.56,80,443,true,CMH,North America,Columbus,213,0.05
+13.43.218.163,80,443,true,LHR,Europe,London,236,0.05
+204.110.223.210,80,443,true,CMH,North America,Columbus,213,0.04
+204.110.223.190,80,443,true,CMH,North America,Columbus,211,0.04
+67.226.222.154,80,443,true,CMH,North America,Columbus,222,0.04
+35.178.213.86,80,443,true,LHR,Europe,London,217,0.03
+204.110.223.191,80,443,true,CMH,North America,Columbus,212,0.00
