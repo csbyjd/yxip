@@ -1,0 +1,21 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+18.199.85.113,2083,443,true,FRA,Europe,Frankfurt,218,15.16
+16.16.166.119,2083,443,true,ARN,Europe,Stockholm,228,13.76
+3.79.113.168,2083,443,true,FRA,Europe,Frankfurt,196,8.50
+18.196.33.84,2083,443,true,FRA,Europe,Frankfurt,221,7.42
+13.38.97.229,2083,443,true,CDG,Europe,Paris,227,7.34
+13.60.213.178,2083,443,true,CPH,Europe,Copenhagen,235,6.95
+54.74.253.197,2083,443,true,DUB,Europe,Dublin,247,6.68
+16.170.136.116,2083,443,true,CPH,Europe,Copenhagen,229,5.25
+20.33.30.36,2083,443,true,LAX,North America,Los Angeles,189,4.54
+157.175.192.17,2083,443,true,FRA,Europe,Frankfurt,306,3.89
+3.120.186.176,2083,443,true,FRA,Europe,Frankfurt,217,3.56
+3.68.185.4,2083,443,true,FRA,Europe,Frankfurt,214,3.37
+193.123.233.143,2083,80,false,ICN,Asia Pacific,Seoul,62,3.24
+3.15.147.151,2083,443,true,CMH,North America,Columbus,215,1.62
+13.53.81.150,2083,443,true,ARN,Europe,Stockholm,233,1.49
+146.235.211.70,2083,443,true,SJC,North America,San Jose,166,1.26
+3.76.252.221,2083,443,true,FRA,Europe,Frankfurt,211,0.37
+108.174.50.200,2083,443,true,ORD,North America,Chicago,227,0.07
+206.237.24.40,2083,443,true,HKG,Asia Pacific,Hong Kong,33,0.02
+13.125.214.112,2083,443,true,ICN,Asia Pacific,Seoul,154,0.01

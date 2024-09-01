@@ -1,0 +1,4 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+120.220.19.103,2082,2082,false,SIN,Asia Pacific,Singapore,56,12.38
+120.220.19.109,2082,2082,false,SIN,Asia Pacific,Singapore,54,10.41
+39.91.137.50,2082,2082,false,LAX,North America,Los Angeles,73,5.27
